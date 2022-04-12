@@ -1,0 +1,19 @@
+Basic Commands
+
+$ git init	//Initialize Local Git Repository
+
+$ git add<file>	//Add File(s) to Index
+
+$ git status	//Check Status of Working Tree
+
+$ git commit	//Commit Changes in Index
+
+$ git push	//Pust to Remote Repository
+
+$ git pull	//Pull Repository Into a New Directory
+
+$ git clone	//Clone Repository into a New Directory
+
+
+
+
